@@ -1,5 +1,6 @@
-Lake,Ca,Mg,Na,Cl,HCO3,SO4,Unsat_Sat_Ratio
-Basque Lake 1,0.27,60.5,18,1.61,1.33,248,0.64
-Clinton Lake,0.13,14.8,8.86,0.72,73.4,0.98,0.12
-Basque Lake 2,0.47,15.5,10.2,1.05,0.19,83,0.15
-Dead Sea,17,40.7,39.2,212,0.2,0.5,0.8
+Lake,Ca,Mg,Na,Cl,HCO3,SO4,Unsat_Sat_Ratio,Type
+Basque Lake 1,0.27,60.5,18,1.61,1.33,248,0.64,MgSO4
+Clinton Lake,0.13,14.8,8.86,0.72,73.4,0.98,0.12,MgSO4
+Basque Lake 2,0.47,15.5,10.2,1.05,0.19,83,0.15,MgSO4
+Dead Sea,17,40.7,39.2,212,0.2,0.5,0.8,MgCl2
+Lake Vanda,,,,,,,0.92,CaCl2
